@@ -61,6 +61,10 @@ The project demonstrates a recurring design pattern in my work: translate a tech
 
 **Tier A — Featured Portfolio Project.** Selected to represent Python application development, interactive visualization and deep-tech/quantum domain expertise.
 
+## Portfolio
+
+**Personal Technical Portfolio:** https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/
+
 ---
 
 **Leonardo Camargo Rossato** · Developer & Solution Architect · AI, Data & Deep Tech
